@@ -1,0 +1,33 @@
+{
+  "name": "XQComponentTmp",
+  "version": "0.1.0",
+  "summary": "XQ自定义组件模版",
+  "description": "XQ自定义组件模版，用于公共、业务组件的构造。",
+  "homepage": "https://github.com/xq0216/XQComponentTmp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "laixuefei": "laixuefei0216@gmail.com"
+  },
+  "source": {
+    "git": "git@github.com:xq0216/XQComponentTmp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XQComponentTmp/Classes/**/*",
+  "resource_bundles": {
+    "XQComponentTmp_Bundle": [
+      "XQComponentTmp/Assets/*.xcassets"
+    ]
+  },
+  "public_header_files": "XQComponentTmp/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreGraphics"
+  ]
+}

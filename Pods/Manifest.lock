@@ -1,0 +1,16 @@
+PODS:
+  - XQComponentTmp (0.1.0)
+
+DEPENDENCIES:
+  - XQComponentTmp (from `./`)
+
+EXTERNAL SOURCES:
+  XQComponentTmp:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  XQComponentTmp: 0b0381fd73d9f2f91491aaee0a17bb423cf43c02
+
+PODFILE CHECKSUM: 22ad205ea9729c284d8d0d63d629b8b6e54b5044
+
+COCOAPODS: 1.5.2
