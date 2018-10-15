@@ -14,6 +14,11 @@ target 'XQComponentTmpDemo' do
 
 end
 
+target 'XQComponentTmp' do
+    pod 'JSONModel', '~> 1.7.0'
+
+end
+
 ################## Pods Script ###################
 #配置Pods工程预编译宏
 post_install do |installer|

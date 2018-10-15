@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "48B06ED243FC97CB252F820391446E69"
+               BlueprintIdentifier = "E2FB30E7EDEF0A662BBDC2B8309910B1"
                BuildableName = "XQComponentTmp_Bundle.bundle"
                BlueprintName = "XQComponentTmp-XQComponentTmp_Bundle"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "48B06ED243FC97CB252F820391446E69"
+            BlueprintIdentifier = "E2FB30E7EDEF0A662BBDC2B8309910B1"
             BuildableName = "XQComponentTmp_Bundle.bundle"
             BlueprintName = "XQComponentTmp-XQComponentTmp_Bundle"
             ReferencedContainer = "container:Pods.xcodeproj">

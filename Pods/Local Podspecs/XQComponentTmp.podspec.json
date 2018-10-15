@@ -29,5 +29,10 @@
     "UIKit",
     "Foundation",
     "CoreGraphics"
-  ]
+  ],
+  "dependencies": {
+    "JSONModel": [
+      "~> 1.7.0"
+    ]
+  }
 }

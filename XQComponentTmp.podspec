@@ -40,8 +40,8 @@ Pod::Spec.new do |s|
     s.frameworks = 'UIKit', 'Foundation', 'CoreGraphics'
 
     #依赖的第三方库
+    s.dependency 'JSONModel', '~> 1.7.0'
     #s.dependency 'BeeHive', '1.6.0'
     #s.dependency 'JLRoutes', '2.1'
-    #s.dependency 'JSONModel', '~> 1.7.0'
     #s.dependency 'Masonry', '~> 1.1.0'
 end

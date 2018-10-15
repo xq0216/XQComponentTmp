@@ -1,16 +1,24 @@
 PODS:
-  - XQComponentTmp (0.1.0)
+  - JSONModel (1.7.0)
+  - XQComponentTmp (0.1.0):
+    - JSONModel (~> 1.7.0)
 
 DEPENDENCIES:
+  - JSONModel (~> 1.7.0)
   - XQComponentTmp (from `./`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSONModel
 
 EXTERNAL SOURCES:
   XQComponentTmp:
     :path: "./"
 
 SPEC CHECKSUMS:
-  XQComponentTmp: 0b0381fd73d9f2f91491aaee0a17bb423cf43c02
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  XQComponentTmp: da1712d4bad161238726b1c1051145e0feb3f418
 
-PODFILE CHECKSUM: 22ad205ea9729c284d8d0d63d629b8b6e54b5044
+PODFILE CHECKSUM: 26c012ea81ac1d3a4f2e8da763dd5e969548e7b8
 
 COCOAPODS: 1.5.2
